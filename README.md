@@ -6,4 +6,8 @@ Projet du module Algorithmique 2 à l'USTHB. <br>
 - Nettoyage du texte
 - Extraction des fréquences et voisins ("contexte") des mots
 - **Génération de texte** à partir des features apprises sur le roman "Emma" de Jane Austen
-- Implémentation d'une interface graphique 
+- Implémentation d'une interface graphique
+
+<img src="MenuProjetAlgo.png"
+     alt="menu_nlp"
+     style="float: center; margin-right: 10px; width:60%;" /> <br>
